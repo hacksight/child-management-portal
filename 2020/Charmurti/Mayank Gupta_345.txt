@@ -1,0 +1,1 @@
+[{"Id":"345","Name":"Mayank Gupta","class":"10","school":"MGPS","camp":"Charmurti","contact":"8439148898","DOB":"2000-12-16","Fathers_Name":"Neeraj Gupta","Fathers_Occupation":"Business","Mothers_Name":"Seema Gupta\t","Mothers_Occupation":"Housewife"}]

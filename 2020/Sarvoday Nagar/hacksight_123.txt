@@ -1,0 +1,1 @@
+[{"Id":"123","Name":"hacksight","class":"6","school":"St. Michael's Convent School","camp":"Sarvoday Nagar","contact":"7310415340","Gender":"gender","DOB":"2000-06-17","Fathers_Name":"Sunil Kumar Srivastava","Fathers_Occupation":"Railways","Mothers_Name":"Vibha Srivastava","Mothers_Occupation":"ITI Raibarelli"}]
